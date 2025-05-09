@@ -17,13 +17,11 @@ class Program
         Console.WriteLine($"Area del circulo: {circulo.CalcularArea()}");
 
 
-        LSP_FigGeometrica figuraGeometricaLSP = new LSP_FigGeometrica(5, 10);
         LSP_FigGeometrica rectanguloLSP = new LSP_Rectangulo(5, 10);
         LSP_FigGeometrica circuloLSP = new LSP_Circulo(5);
         LSP_FigGeometrica trianguloLSP = new LSP_Triangulo(5, 10);
-        Console.WriteLine("\nCon el Principio de Sustitucion de Liskov:\n");
 
-        Console.WriteLine($"Area de la figura geometrica: {figuraGeometricaLSP.CalcularArea()}");
+        Console.WriteLine("\nCon el Principio de Sustitucion de Liskov:\n");
         Console.WriteLine($"Area del rectangulo: {rectanguloLSP.CalcularArea()}");
         Console.WriteLine($"Area del circulo: {circuloLSP.CalcularArea()}");
         Console.WriteLine($"Area del triangulo: {trianguloLSP.CalcularArea()}");

@@ -16,3 +16,4 @@ C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\3 LSP\Pri
 C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\3 LSP\Principio LSP\obj\Debug\net8.0\Principio LSP.pdb
 C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\3 LSP\Principio LSP\obj\Debug\net8.0\Principio LSP.genruntimeconfig.cache
 C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\3 LSP\Principio LSP\obj\Debug\net8.0\ref\Principio LSP.dll
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\3 LSP\Principio LSP\obj\Debug\net8.0\Principio LSP.sourcelink.json

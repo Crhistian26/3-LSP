@@ -9,3 +9,4 @@ C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\3 LSP\Cla
 C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\3 LSP\Clases\obj\Debug\net8.0\refint\Clases.dll
 C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\3 LSP\Clases\obj\Debug\net8.0\Clases.pdb
 C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\3 LSP\Clases\obj\Debug\net8.0\ref\Clases.dll
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\3 LSP\Clases\obj\Debug\net8.0\Clases.sourcelink.json
