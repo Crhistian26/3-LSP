@@ -1,0 +1,18 @@
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\3 LSP\Principio LSP\bin\Debug\net8.0\Principio LSP.exe
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\3 LSP\Principio LSP\bin\Debug\net8.0\Principio LSP.deps.json
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\3 LSP\Principio LSP\bin\Debug\net8.0\Principio LSP.runtimeconfig.json
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\3 LSP\Principio LSP\bin\Debug\net8.0\Principio LSP.dll
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\3 LSP\Principio LSP\bin\Debug\net8.0\Principio LSP.pdb
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\3 LSP\Principio LSP\bin\Debug\net8.0\Clases.dll
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\3 LSP\Principio LSP\bin\Debug\net8.0\Clases.pdb
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\3 LSP\Principio LSP\obj\Debug\net8.0\Principio LSP.csproj.AssemblyReference.cache
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\3 LSP\Principio LSP\obj\Debug\net8.0\Principio LSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\3 LSP\Principio LSP\obj\Debug\net8.0\Principio LSP.AssemblyInfoInputs.cache
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\3 LSP\Principio LSP\obj\Debug\net8.0\Principio LSP.AssemblyInfo.cs
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\3 LSP\Principio LSP\obj\Debug\net8.0\Principio LSP.csproj.CoreCompileInputs.cache
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\3 LSP\Principio LSP\obj\Debug\net8.0\Principi.8809647A.Up2Date
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\3 LSP\Principio LSP\obj\Debug\net8.0\Principio LSP.dll
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\3 LSP\Principio LSP\obj\Debug\net8.0\refint\Principio LSP.dll
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\3 LSP\Principio LSP\obj\Debug\net8.0\Principio LSP.pdb
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\3 LSP\Principio LSP\obj\Debug\net8.0\Principio LSP.genruntimeconfig.cache
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\3 LSP\Principio LSP\obj\Debug\net8.0\ref\Principio LSP.dll
